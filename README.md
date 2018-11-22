@@ -8,7 +8,7 @@ My converted training dataset CSV file  : <a href="https://drive.google.com/open
 
 My converted training dataset CSV file  : <a href="https://drive.google.com/open?id=1FuaAVgxzcNqZ2jHvOd2CrjhjUfXP-_vb">https://drive.google.com/open?id=1FuaAVgxzcNqZ2jHvOd2CrjhjUfXP-_vb</a>
 
-## Google Colab Sharable Link
+## Google Colab Shareable Link
 
 <a href="https://colab.research.google.com/drive/1EoR4ov7YIc0tIYeQ-0K92IWmgNkt6sSy">https://colab.research.google.com/drive/1EoR4ov7YIc0tIYeQ-0K92IWmgNkt6sSy</a>
 

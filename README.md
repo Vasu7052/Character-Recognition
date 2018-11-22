@@ -51,18 +51,18 @@ My converted training dataset CSV file  : <a href="https://drive.google.com/open
 
 ## Screenshots
 
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss1.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss2.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss3.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss4.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss5.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss6.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss7.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss8.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss9.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss10.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss11.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/ss12.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss1.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss2.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss3.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss4.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss5.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss6.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss7.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss8.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss9.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss10.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss11.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss12.png" alt="" style="max-width:100%;">
 
 # Deployed WEB API
 
@@ -72,14 +72,14 @@ Web API is running on <a href="https://character-recognition.herokuapp.com/">htt
 
 ## usage
 
-* Go to ```https://character-recognition.herokuapp.com/``` for seeing the overview
+* Go to ```https://character-recognition.herokuapp.com/``` for seeing the overview of my work
 * There you will find instructions for post request, which is as follow :
-    **Endpoint : ** https://character-recognition.herokuapp.com/predict/
-    **Method : ** POST
-    **Only Parameter : ** test_image (of file type)
+    * **Endpoint : ** https://character-recognition.herokuapp.com/predict/
+    * **Method : ** POST
+    * **Only Parameter : ** test_image (of file type)
 
 
 ## Screenshots
 
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/web_ss1.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/ScreenShots/web_ss2.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/web_ss1.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/web_ss2.png" alt="" style="max-width:100%;">

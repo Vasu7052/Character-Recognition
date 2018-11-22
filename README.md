@@ -50,19 +50,30 @@ My converted training dataset CSV file  : <a href="https://drive.google.com/open
 * Pillow (For web API)
 
 ## Screenshots
-
+<p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss1.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss2.png" alt="" style="max-width:100%;">
+</p>
+<p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss3.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss4.png" alt="" style="max-width:100%;">
+</p>
+<p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss5.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss6.png" alt="" style="max-width:100%;">
+</p>
+<p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss7.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss8.png" alt="" style="max-width:100%;">
+</p>
+<p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss9.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss10.png" alt="" style="max-width:100%;">
+</p>
+<p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss11.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss12.png" alt="" style="max-width:100%;">
+</p>
 
 # Deployed WEB API
 

@@ -33,12 +33,21 @@ My converted training dataset CSV file  : <a href="https://drive.google.com/open
 ### For Jupyter Notebook
 * Just run train_model.ipynb in the Jupyter notebook and it will start the training process
 
-### For Web API
+### For Web API Local
 * Change directory from ``root`` to WebAPI
 * Activate your virtual environment
 * Run command ```python3 app.py```
 * That's it, now open URL ```127.0.0.1:5000``` for usage
 * Postman like 3rd party software can be used for creating API request at ```127.0.0.1:5000/predict/```
+
+
+## For Web API Deployed
+
+* Go to ```https://character-recognition.herokuapp.com/``` for seeing the overview of my work
+* There you will find instructions for post request, which is as follow :
+    * ```Endpoint : ``` https://character-recognition.herokuapp.com/predict/
+    * ```Method : ``` POST
+    * ```Only Parameter : ``` test_image (of file type)
 
 ## Common Libraries Used
 * Numpy
@@ -51,8 +60,8 @@ My converted training dataset CSV file  : <a href="https://drive.google.com/open
 
 ## Screenshots
 <p float="left">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss1.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss2.png" alt="" style="max-width:100%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss1.png" alt="" style="max-width:80%;">
+<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss2.png" alt="" style="max-width:80%;">
 </p>
 <p float="left">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss3.png" alt="" style="max-width:100%;">
@@ -66,14 +75,6 @@ My converted training dataset CSV file  : <a href="https://drive.google.com/open
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss7.png" alt="" style="max-width:100%;">
 <img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss8.png" alt="" style="max-width:100%;">
 </p>
-<p float="left">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss9.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss10.png" alt="" style="max-width:100%;">
-</p>
-<p float="left">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss11.png" alt="" style="max-width:100%;">
-<img src="https://github.com/Vasu7052/Character-Recognition/raw/master/Screenshots/ss12.png" alt="" style="max-width:100%;">
-</p>
 
 # Deployed WEB API
 
@@ -81,13 +82,13 @@ I have deployed web api to Heroku for instant testing
 
 Web API is running on <a href="https://character-recognition.herokuapp.com/">https://character-recognition.herokuapp.com/</a>
 
-## usage
+## Usage
 
 * Go to ```https://character-recognition.herokuapp.com/``` for seeing the overview of my work
 * There you will find instructions for post request, which is as follow :
-    * **Endpoint : ** https://character-recognition.herokuapp.com/predict/
-    * **Method : ** POST
-    * **Only Parameter : ** test_image (of file type)
+    * ```Endpoint : ``` https://character-recognition.herokuapp.com/predict/
+    * ```Method : ``` POST
+    * ```Only Parameter : ``` test_image (of file type)
 
 
 ## Screenshots
